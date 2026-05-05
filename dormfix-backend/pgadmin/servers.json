@@ -1,0 +1,15 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "DormFix PostgreSQL",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "dormfix",
+      "Username": "dormfix_user",
+      "Password": "dormfix_pass",
+      "SSLMode": "prefer",
+      "SavePassword": true
+    }
+  }
+}
